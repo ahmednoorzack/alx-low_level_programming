@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main = the main function of the program
- * Return 0 = the program should return 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
-
-int main()
+int main(void)
 {
-	printf(" _putchar /n")
-		return 0;
+	printf("_putchar \n");
+	return (0);
 }
